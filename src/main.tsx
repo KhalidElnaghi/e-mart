@@ -1,5 +1,3 @@
 import ReactDOM from "react-dom/client";
 
-ReactDOM.createRoot(document.getElementById("root")!).render(
-  <div>another test rules</div>
-);
+ReactDOM.createRoot(document.getElementById("root")!).render(<div>test 2</div>);
